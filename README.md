@@ -1,8 +1,7 @@
 使用cloudflare workers 或 snippets 反代域名给节点套cdn加速
 
 部分优选域名：
-        'sub.danfeng.eu.org',
-        
+        'sub.danfeng.eu.org',<br/>
         'cf.zhetengsha.eu.org',
         
         'youxuan.cf.090227.xyz',
