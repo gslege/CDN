@@ -1,4 +1,4 @@
-使用cloudflare workers 或 snippets 反代域名给节点套cdn加速，worker代码指向要加速的原始域名，worker项目用路由套上要加速的域名，然后要加速的域名用CNAME指向以下优选域名，从而达到加速的效果！
+使用cloudflare workers 或 snippets 反代域名给网站或节点套cdn加速，worker代码指向要加速的原始域名，worker项目用路由套上要加速的域名，然后要加速的域名用CNAME指向以下优选域名，从而达到加速的效果！
 
 部分优选域名：
 
